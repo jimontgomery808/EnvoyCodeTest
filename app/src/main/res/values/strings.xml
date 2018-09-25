@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Envoy Code Test</string>
+    <string name="file_name">file name</string>
+    <string name="language_not_specified">language not specified</string>
+    <string name="file_type">file type</string>
+    <string name="size">size</string>
+    <string name="view_public_gists">View public gists</string>
+    <string name="gist_viewer">Gist Viewer</string>
+    <string name="no_description">No Description</string>
+    <string name="_2018_github_inc">© 2018 GitHub, Inc.</string>
+    <string name="created_on">created on</string>
+    <string name="embed">Embed</string>
+    <string name="user_name">User Name</string>
+    <string name="job_profile">Job Profile</string>
+</resources>
